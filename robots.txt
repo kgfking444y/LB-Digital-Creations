@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kgfking444y.github.io/LB-Digital-Creations/sitemap.xml
